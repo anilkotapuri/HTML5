@@ -1,0 +1,25 @@
+header{
+    background-color: #22610d;
+    color: #fff;
+    padding: 20px;
+}
+header h1{
+    margin: 0;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background: 
+071952;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+}
+nav {
+    align-items: right;
+}
+ul li{
+    display: inline;
+    padding: 20px;
+}
